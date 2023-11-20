@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy/static/css/main.c9ba019d.css",
+    "main.js": "/deploy/static/js/main.848bd8ff.js",
+    "static/js/787.d4aba7ab.chunk.js": "/deploy/static/js/787.d4aba7ab.chunk.js",
+    "static/media/remixicon.svg?t=1690730386070": "/deploy/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/deploy/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/deploy/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/deploy/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/deploy/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/appstore.png": "/deploy/static/media/appstore.76feb683863dc42b3409.png",
+    "static/media/nifa-new-logo.png": "/deploy/static/media/nifa-new-logo.225b285db38762ff2a43.png",
+    "index.html": "/deploy/index.html",
+    "main.c9ba019d.css.map": "/deploy/static/css/main.c9ba019d.css.map",
+    "main.848bd8ff.js.map": "/deploy/static/js/main.848bd8ff.js.map",
+    "787.d4aba7ab.chunk.js.map": "/deploy/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ba019d.css",
+    "static/js/main.848bd8ff.js"
+  ]
+}
